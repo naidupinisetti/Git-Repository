@@ -1,1 +1,3 @@
-# Git-Repository
+# maven-project
+
+Simple Maven Project
